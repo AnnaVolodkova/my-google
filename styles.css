@@ -108,7 +108,7 @@ main {
 .search-input {
     height: 100%;
     width: 100%;
-    font-size: 13px;
+    font-size: 16px;
     padding: 10px 15px;
     box-sizing: border-box;
     border-radius: 500px;
@@ -129,16 +129,19 @@ main {
 .icon-mic {
     width: 15px;
 }
-.icon-search-item{
+
+.icon-search-item {
     padding-left: 10px;
+
 }
-.icon-search{
+
+.icon-search {
     color: #9ba1a8;
-    font-size: 20px;
+
 }
-.icon-kbrd{
+
+.icon-kbrd {
     color: #7b7b7b;
-    font-size: 20px;
 }
 
 
@@ -219,7 +222,8 @@ main {
     border: 1px solid #c6c6c6;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
-.btn:active{
+
+.btn:active {
     border-color: dodgerblue;
 }
 
