@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
+    min-width: 1000px;
     background: #fff;
     color: #222;
     font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
